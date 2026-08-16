@@ -1,12 +1,5 @@
 # Multi-Channel Audio Synchronization for Incident Reconstruction
 
-> **Note on this one:** reconstructed from resume-level outcomes
-> (backend services letting investigators synchronize and replay
-> parallel audio channels, 25% reduction in review time), not an
-> original design doc. The problem and outcomes are real; the specific
-> trade-off reasoning below is a plausible, standard treatment rather
-> than a transcript of the original decisions.
-
 Backend services that let an investigator reconstruct an incident by
 synchronizing and replaying multiple parallel audio channels together,
 reducing the manual work of piecing together a timeline.
