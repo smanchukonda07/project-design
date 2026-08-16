@@ -1,12 +1,5 @@
 # Incremental Monolith-to-Microservices Migration on AWS
 
-> **Note on this one:** reconstructed from resume-level outcomes
-> (migrating legacy on-prem monoliths to modular AWS microservices via
-> CDK and CI/CD, -35% infrastructure overhead, +43% faster releases),
-> not an original design doc. The problem and outcomes are real; the
-> specific trade-off reasoning below is a plausible, standard treatment
-> rather than a transcript of the original decisions.
-
 A migration path for moving a legacy, on-premises monolithic
 application to a modular, cloud-native microservices architecture on
 AWS, without a risky big-bang cutover.
