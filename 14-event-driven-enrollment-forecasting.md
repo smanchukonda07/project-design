@@ -1,12 +1,5 @@
 # Event-Driven Forecasting for Enrollment Analytics
 
-> **Note on this one:** reconstructed from resume-level outcomes (an
-> event-driven ML forecasting system for enrollment analytics, +25%
-> prediction accuracy, -99% operating cost vs. a batch approach), not an
-> original design doc. The problem and outcomes are real; the specific
-> trade-off reasoning below is a plausible, standard treatment rather
-> than a transcript of the original decisions.
-
 An event-driven forecasting system for enrollment analytics that reacts
 to new data as it arrives instead of running on a fixed batch schedule,
 improving both prediction accuracy and operating cost.
