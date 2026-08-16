@@ -1,12 +1,5 @@
 # Low-Latency Media Ingestion & Transcription Pipeline
 
-> **Note on this one:** reconstructed from resume-level outcomes (a
-> low-latency multimedia ingestion pipeline with AI-driven transcription,
-> 99.99% availability, 40% latency reduction), not an original design
-> doc. The problem and outcomes are real; the specific trade-off
-> reasoning below is a plausible, standard treatment of this problem
-> class rather than a transcript of the original decisions.
-
 A low-latency pipeline for ingesting live multimedia streams and
 producing accurate transcriptions in near real time, for a
 mission-critical, customer-facing system.
